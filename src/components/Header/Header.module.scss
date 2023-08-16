@@ -1,0 +1,17 @@
+@import "../../shared/styles/vars";
+
+.header {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 91px;
+  padding: $mainPadding;
+  border-bottom: 1px solid;
+  width: 100%;
+}
+
+.navigateBlock {
+  display: flex;
+}
+
